@@ -5,22 +5,22 @@
 + Visit https://dashboard.ngrok.com
 
 + You register ngrok account using google or github
-+ 
++In your repository click settings > secrets and variables > Actions > New repository secret
 
-+ isi Nama: Masukan NGROK_AUTH_TOKEN
++ Fill In Name:  NGROK_AUTH_TOKEN
 
-+ isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam value
+ + For your secret content visit:  https://dashboard.ngrok.com/get-started/your-authtoken
++ Click copy and Paste in Secret
+  
++ Press Add secret
 
-+ Tekan Add secret
++ Go to Action Click Select workflow< Select Har Pito,Press Run workflow
 
-+ Pergi Ke Action <Klik Select workflow< Pilih Har Pito,Pencet Run workflow
++ Refresh Web/page and enter to Har Pito> click build
 
-+ Refresh Web/halaman dan masuk ke Har Pito> klik build
++ *Waiting 1-5 menit*
 
-+ *Tunggu 1-5 menit*
++ Press button arrow facing down It says (Connect RDP.) To get  IP, User, Password.
 
-+ Tekan Tombol panah menghadap ke bawah Yg bertuliskan (Connect RDP.) Untuk Mendapatkan IP, User, Password.
-
-+  ```Peringatan jika Rdp close silahkan klik Action<Pilih Har Pito<Klik build, Klik titik tiga klik run-rensjob dan jalan kan lagi Rdp nya```
-
+  
 
