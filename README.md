@@ -14,7 +14,7 @@
   
 + Press Add secret
 
-+ Go to Action Click Select workflow< Select Har Pito,Press Run workflow
++ Go to Action Click All workflow > Select Har Pito,Press Run workflow,click again to run the workflow (green button)
 
 + Refresh Web/page and enter to Har Pito> click build
 
