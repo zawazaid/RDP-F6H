@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/roshan-iolite/windowd10RDP.git
+git remote add origin https://github.com/harapito15/RDP-FREE-6-JAM.git
 git branch -m main
 git status
 git add .
