@@ -1,16 +1,11 @@
-﻿   ⬇️⚠️ JANGAN LUPA KLIK LINK DIBAWAH INI⚠️⬇️
+ + HOW TO MAKE RDP
+ 
++ Press the Forks button to create RDP (For Android/HP users, please use Desktop Mode).
 
- https://youtube.com/channel/UCqK3KOcJI1dmbyuiTIzlKIA?sub_confirmation=1
++ Visit https://dashboard.ngrok.com
 
-+ RDP Windows Gratis 6 Jam
-
-+ Buat RDP Windows 10 Ram 7GB 2 Core Cpu Dengan Github:
-
-+ Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
-
-+ kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
-
-+ Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
++ You register ngrok account using google or github
++ 
 
 + isi Nama: Masukan NGROK_AUTH_TOKEN
 
